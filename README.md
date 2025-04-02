@@ -1,7 +1,5 @@
 # Cozy Threads E-Commerce Application
 
-![Cozy Threads Logo](https://via.placeholder.com/150x50?text=Cozy+Threads)
-
 A modern e-commerce application for Cozy Threads, an ethical apparel brand, featuring Stripe payment integration.
 
 ## Features
